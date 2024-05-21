@@ -1,4 +1,3 @@
-# dependencyInversionPrinciple
 # <p align=center>Dependency Inversion Principle</p>
 ## Problem
 The NEU Library offers a variety of resources, including books, theses, capstones, internet access, journals, and newspapers.
