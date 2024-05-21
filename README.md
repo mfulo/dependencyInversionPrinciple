@@ -6,7 +6,7 @@ To adhere to the Dependency Inversion Principle (DIP) and ensure flexibility for
 Your solution should not violate other SOLID principles.
 
 ## UML
-![dip](https://github.com/mfulo/dependencyInversionPrinciple/assets/142382665/b1918a6a-b071-47a7-9c19-1c3c3ad2dc50)
+![dip (1)](https://github.com/mfulo/dependencyInversionPrinciple/assets/142382665/7010a650-cf70-4ee8-87f6-d09641a36994)
 
 
 ## Test Code
