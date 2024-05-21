@@ -6,6 +6,8 @@ To adhere to the Dependency Inversion Principle (DIP) and ensure flexibility for
 Your solution should not violate other SOLID principles.
 
 ## UML
+![dip](https://github.com/mfulo/dependencyInversionPrinciple/assets/142382665/b1918a6a-b071-47a7-9c19-1c3c3ad2dc50)
+
 
 ## Test Code
     Student student = new Student("Kat");
